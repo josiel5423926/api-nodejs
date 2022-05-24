@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Jogo teste",
   "main": "server.js",
-  "engines": {
-    "node": "16.x"
-  },
   "scripts": {
     "start": "nodemon server.js"
   },
